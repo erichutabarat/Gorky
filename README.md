@@ -4,7 +4,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
-Gorky is Google Dorker tools that can help you to hrab website lists from Google Search.<br>
+Gorky is Google Dorker tools that can help you to grab website lists from Google Search.<br>
 Gorky will save results with protocol (http/https) and domain only.<br>
 Gorky will not save result if containing one of blacklist domain in blacklist.txt.<br>
 Thanks <3

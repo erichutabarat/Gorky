@@ -21,4 +21,5 @@ Install BeautifulSoup4 using this command :
 
 # Before Start Using Gorky
 Before Start Using Gorky you need to grab your cookies from your browser and save it in ***Cookies.txt*** <br>
+Before start Gorky Make sure you have file named result.txt (even the contents of the file are empty)<br>
 You can watch me Grab the cookies in [this video](https://youtube.com)

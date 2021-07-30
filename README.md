@@ -23,3 +23,10 @@ Install BeautifulSoup4 using this command :
 Before Start Using Gorky you need to grab your cookies from your browser and save it in ***Cookies.txt*** <br>
 Before start Gorky Make sure you have file named result.txt (even the contents of the file are empty)<br>
 You can watch me Grab the cookies in [this video](https://youtube.com)
+
+# Usage
+After you put you cookies into ***Cookies.txt*** , now you can start Gorky.<br>
+And remember to save your google dork list in the same dir.
+> python gorky.py
+
+![Image of Yaktocat](https://raw.githubusercontent.com/ericgans/Gorky/main/Screenshots.bmp)

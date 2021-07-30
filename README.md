@@ -7,7 +7,8 @@
 Gorky is Google Dorker tools that can help you to grab website lists from Google Search.<br>
 Gorky will save results with protocol (http/https) and domain only.<br>
 Gorky will not save result if containing one of blacklist domain in blacklist.txt.<br>
-Thanks <3
+Gorky only grab result in first page and second page on Google result. Why ? i'm too lazy.<br>
+
 <br>
 
 # Installation

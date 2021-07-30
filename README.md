@@ -30,3 +30,9 @@ And remember to save your google dork list in the same dir.
 > python gorky.py
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/ericgans/Gorky/main/Screenshots.bmp)
+
+<br>
+
+# How about Google reCaptcha ?
+Gorky can detect google recaptcha, but you need to solve recaptcha manual.<br>
+If Gorky gives Google reCaptcha warning ,open google.com in your browser and search anything, solve Google Captcha and then grab your cookies from browser again and rewrite into ***Cookies.txt*** .
